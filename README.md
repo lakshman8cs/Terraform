@@ -32,3 +32,4 @@ This Terraform configuration sets up a basic infrastructure on Google Cloud Plat
    terraform apply
    ```
 
+<img width="1506" alt="image" src="https://github.com/lakshman8cs/Terraform/assets/62003533/14d3eb2a-383b-47a3-9c54-a6740582ecb2">
