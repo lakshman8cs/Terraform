@@ -38,5 +38,8 @@ This Terraform configuration sets up a basic infrastructure on Google Cloud Plat
 
 <img width="1507" alt="image" src="https://github.com/lakshman8cs/Terraform/assets/62003533/d6f92751-4396-43f1-82c1-a541c1e519b8">
 
+<img width="1469" alt="image" src="https://github.com/lakshman8cs/Terraform/assets/62003533/ae480b36-3e97-4e9c-9151-6521312947b1">
+
+
 
 
